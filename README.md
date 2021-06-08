@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spunit07042001
+- 👋 Hi, I’m PUNIT SONI 
 - 👀 I’m interested in Cyber and security 
 - 🌱 I’m currently learning Bechelor of Computer Application
 - 🌱 I'm also currently learning Ethical HAcking 
