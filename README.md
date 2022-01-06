@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PUNIT SONI 
 - 👀 I’m interested in Cyber and security 
 - 🌱 I’m currently learning Bechelor of Computer Application
-- 🌱 I'm also currently learning Ethical HAcking 
+- 🌱 I'm also currently learning Ethical HAcking and Web Designing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail- spunit07042001@gmail.com
 
